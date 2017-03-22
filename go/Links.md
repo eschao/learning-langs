@@ -7,3 +7,6 @@
 * JWT:
   * https://auth0.com/blog/authentication-in-golang/
   * http://dghubble.com/blog/posts/json-web-tokens-and-go/
+  
+* Database:
+  * http://go-database-sql.org/index.html
